@@ -1,0 +1,10 @@
+D:\Mv.Quarto\Quarto\bin\Debug\Quarto.exe.config
+D:\Mv.Quarto\Quarto\bin\Debug\Quarto.exe
+D:\Mv.Quarto\Quarto\bin\Debug\Quarto.pdb
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.csprojAssemblyReference.cache
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.Form1.resources
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.Properties.Resources.resources
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.csproj.GenerateResource.cache
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.csproj.CoreCompileInputs.cache
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.exe
+D:\Mv.Quarto\Quarto\obj\Debug\Quarto.pdb
